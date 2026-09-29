@@ -7,148 +7,151 @@
 <h1 align="center">Hi 👋, I'm Anivesh Tyagi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Data+Science+%7C+Machine+Learning;Python+%7C+AI+%7C+Data+Analytics;IT+Undergraduate+%7C+Problem+Solver;Building+Data-Driven+Solutions+%F0%9F%93%8A" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Data+Science+%7C+Machine+Learning;Python+%7C+AI+%7C+Data+Analytics;IT+Undergraduate+%7C+Problem+Solver;Building+Data-Driven+Solutions" />
 </p>
 
 <p align="center">
-  <b>IT Undergraduate • Data Science & ML Enthusiast • Python Developer</b>
+  <b>🎓 IT Undergraduate</b> •
+  <b>📊 Data Science & ML Enthusiast</b> •
+  <b>🐍 Python Developer</b>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
-I'm a **B.Tech Information Technology undergraduate** with a strong interest
-in **Data Science, Machine Learning, Artificial Intelligence, and Python
-development**.
+I'm a <b>B.Tech Information Technology undergraduate</b> with a strong
+interest in <b>Data Science, Machine Learning, Artificial Intelligence,
+and Python development</b>.
 
-I enjoy working with data, discovering meaningful patterns through analysis,
-building machine learning solutions, and developing practical applications
-for real-world problems.
+📊 I enjoy working with data, discovering meaningful patterns through
+analysis, building machine learning solutions, and developing practical
+applications for real-world problems.
 
-I'm particularly interested in the complete data science lifecycle — from
-**data collection and preprocessing to exploratory analysis, model building,
-evaluation, and deployment**.
+🔬 I'm particularly interested in the complete data science lifecycle —
+from <b>data collection and preprocessing to exploratory analysis, model
+building, evaluation, and deployment</b>.
 
-Alongside Data Science, I also explore **web development, backend
-technologies, databases, and software development**, allowing me to build
-end-to-end applications around data-driven solutions.
+💻 Alongside Data Science, I also explore <b>web development, backend
+technologies, databases, and software development</b>, allowing me to
+build end-to-end applications around data-driven solutions.
 
-### 🎯 Areas of Interest
+<h3>🎯 Areas of Interest</h3>
 
 - 📊 Data Analysis & Exploratory Data Analysis
 - 🤖 Machine Learning & Artificial Intelligence
 - 🐍 Python-based Data Science
-- 🧮 Statistics & Data-driven Decision Making
+- 📐 Statistics & Data-driven Decision Making
 - 🗄️ SQL & Database Management
 - 🚀 Machine Learning Model Deployment
-- 💻 Full-Stack & Backend Development
+- 🌐 Full-Stack & Backend Development
 - 🧠 Data Structures & Algorithms
 
 ---
 
-## 🛠️ Technical Skills
+<h2>🛠️ Technical Skills</h2>
 
-### 💻 Programming Languages
+<h3>💻 Programming Languages</h3>
 
 `Python` `C` `C++` `Java` `JavaScript` `SQL`
 
-### 📊 Data Science & Machine Learning
+<h3>📊 Data Science & Machine Learning</h3>
 
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn`
 
-**Core Areas:**
+<b>🔍 Core Areas:</b>
 
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis
-- Data Visualization
-- Feature Engineering
-- Feature Selection
-- Classification & Regression
-- Model Evaluation
-- Machine Learning Pipelines
+- 🧹 Data Cleaning & Preprocessing
+- 🔎 Exploratory Data Analysis
+- 📈 Data Visualization
+- ⚙️ Feature Engineering
+- 🎯 Feature Selection
+- 🤖 Classification & Regression
+- 📏 Model Evaluation
+- 🔄 Machine Learning Pipelines
 
-### 🌐 Web & Backend Development
+<h3>🌐 Web & Backend Development</h3>
 
 `HTML` `CSS` `JavaScript` `React.js` `Node.js` `FastAPI` `Spring Boot`
 
-### 🗄️ Databases
+<h3>🗄️ Databases</h3>
 
 `MySQL` `MongoDB`
 
-### 🔧 Tools & Platforms
+<h3>🔧 Tools & Platforms</h3>
 
 `Git` `GitHub` `Jupyter Notebook` `Google Colab` `VS Code`
 
 ---
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
-### 🏥 PulseTalk — AI-Powered Healthcare Platform
+<h3>🏥 PulseTalk — AI-Powered Healthcare Platform</h3>
 
-**PulseTalk** is an AI-powered healthcare platform designed to connect
+<b>PulseTalk</b> is an AI-powered healthcare platform designed to connect
 patients and clinicians through an intelligent digital healthcare
 experience. The platform combines an AI healthcare assistant, patient
-management features, real-time communication, and healthcare analytics to
-provide a more accessible and organized healthcare workflow.
+management features, real-time communication, and healthcare analytics
+to provide a more accessible and organized healthcare workflow.
 
-**Key Features:**
+<b>✨ Key Features:</b>
 
-- 👨‍⚕️ **Patient Portal** — AI-powered healthcare assistance, symptom
+- 👨‍⚕️ <b>Patient Portal:</b> AI-powered healthcare assistance, symptom
   guidance, multilingual support, medical history tracking, and appointment
   scheduling.
-- 🏥 **Clinician Dashboard** — Patient management, appointment monitoring,
+- 🏥 <b>Clinician Dashboard:</b> Patient management, appointment monitoring,
   real-time communication, analytics, activity tracking, and notifications.
-- 🤖 **AI Healthcare Assistant** — Context-aware conversations, multi-chat
+- 🤖 <b>AI Healthcare Assistant:</b> Context-aware conversations, multi-chat
   history, intelligent response generation, and healthcare information
   assistance.
 
-**Focus:** AI • Healthcare Technology • Real-Time Communication • Data
-Management • Intelligent Assistants
+<b>🔑 Focus:</b> AI • Healthcare Technology • Real-Time Communication •
+Data Management • Intelligent Assistants
 
 ---
 
-### 📈 StockPilot — AI-Powered Store Management Platform
+<h3>📈 StockPilot — AI-Powered Store Management Platform</h3>
 
-**StockPilot** is a unified AI-powered platform designed to help sellers
+<b>StockPilot</b> is a unified AI-powered platform designed to help sellers
 manage their entire store ecosystem through multiple intelligent input
-methods — **Speak, Scan, or Record**. It combines voice-based inventory
+methods — <b>Speak, Scan, or Record</b>. It combines voice-based inventory
 management, computer vision, document processing, shelf analysis, and
 business analytics into a single platform while enabling real-time
 connectivity between sellers and suppliers.
 
-**Core Features:**
+<b>✨ Core Features:</b>
 
-- 🎤 **Voice-First Inventory Management** — Manage inventory using voice
+- 🎤 <b>Voice-First Inventory Management:</b> Manage inventory using voice
   interactions.
-- 📸 **AI-Powered Product Digitization** — Digitize and organize products
+- 📸 <b>AI-Powered Product Digitization:</b> Digitize and organize products
   using AI.
-- 🧾 **Smart Invoice Scanning** — Extract useful information from invoices.
-- 🧹 **Shelf Doctor** — AI-powered shelf analysis for identifying and
+- 🧾 <b>Smart Invoice Scanning:</b> Extract useful information from invoices.
+- 🧹 <b>Shelf Doctor:</b> AI-powered shelf analysis for identifying and
   analyzing shelf conditions.
-- ⏰ **Automated Expiry Alerts** — Helps track products and upcoming
-  expiration dates.
-- 📊 **Sales Analytics & Business Insights** — Provides useful insights
+- ⏰ <b>Automated Expiry Alerts:</b> Track products and upcoming expiration
+  dates.
+- 📊 <b>Sales Analytics & Business Insights:</b> Generate useful insights
   from store and sales data.
-- 🔗 **Seller ↔ Supplier Connectivity** — Enables real-time interaction
+- 🔗 <b>Seller ↔ Supplier Connectivity:</b> Enable real-time interaction
   between sellers and suppliers.
 
-🏆 **Top 18 among 250+ teams — GDG Cloud New Delhi Hackathon**
+🏆 <b>Achievement:</b> Top 18 among 250+ teams — GDG Cloud New Delhi
+Hackathon
 
-**Focus:** AI • Data Analytics • Computer Vision • Automation • Business
-Intelligence • Intelligent Retail
+<b>🔑 Focus:</b> AI • Data Analytics • Computer Vision • Automation •
+Business Intelligence • Intelligent Retail
 
 ---
 
-### 🎓 Campus Connect — Digital Campus Platform
+<h3>🎓 Campus Connect — Digital Campus Platform</h3>
 
-**Campus Connect** is a digital campus platform designed to improve
+<b>Campus Connect</b> is a digital campus platform designed to improve
 communication, accessibility, and interaction within the college ecosystem.
 The project focuses on bringing useful campus-related services and
-information into a centralized digital environment, making it easier for
-students to access and interact with campus resources.
+information into a centralized digital environment, making it easier
+for students to access and interact with campus resources.
 
-**Key Areas:**
+<b>✨ Key Areas:</b>
 
 - 🌐 Digital campus services
 - 👥 Student-focused platform
@@ -156,28 +159,30 @@ students to access and interact with campus resources.
 - ⚙️ Backend integration
 - 📱 Accessible and user-centric experience
 
-**Focus:** Full-Stack Development • Backend • Databases • User-Centric
-Solutions
+<b>🔑 Focus:</b> Full-Stack Development • Backend • Databases •
+User-Centric Solutions
 
 ---
 
-## 🔬 Data Science Workflow
+<h2>🔬 Data Science Workflow</h2>
 
-I approach Data Science projects as an end-to-end process:
+📊 I approach Data Science projects as an end-to-end process:
+
+<p align="center">
 
 ```text
-          📥 DATA COLLECTION
-                  ↓
-          🧹 DATA CLEANING
-                  ↓
-        📊 EXPLORATORY ANALYSIS
-                  ↓
-        ⚙️ FEATURE ENGINEERING
-                  ↓
-          🤖 MODEL BUILDING
-                  ↓
-         📈 MODEL EVALUATION
-                  ↓
-            🚀 DEPLOYMENT
-                  ↓
-         💡 DATA-DRIVEN INSIGHTS
+📥 Data Collection
+        ↓
+🧹 Data Cleaning
+        ↓
+🔎 Exploratory Data Analysis
+        ↓
+⚙️ Feature Engineering
+        ↓
+🤖 Model Building
+        ↓
+📏 Model Evaluation
+        ↓
+🚀 Deployment
+        ↓
+💡 Data-Driven Insights
