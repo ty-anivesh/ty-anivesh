@@ -1,4 +1,4 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== ANIMATED HEADER ===================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Anivesh%20Tyagi&fontSize=48&fontAlignY=35&animation=fadeIn" />
@@ -121,22 +121,15 @@ connectivity between sellers and suppliers.
 
 <b>✨ Core Features:</b>
 
-- 🎤 <b>Voice-First Inventory Management:</b> Manage inventory using voice
-  interactions.
-- 📸 <b>AI-Powered Product Digitization:</b> Digitize and organize products
-  using AI.
+- 🎤 <b>Voice-First Inventory Management:</b> Manage inventory using voice interactions.
+- 📸 <b>AI-Powered Product Digitization:</b> Digitize and organize products using AI.
 - 🧾 <b>Smart Invoice Scanning:</b> Extract useful information from invoices.
-- 🧹 <b>Shelf Doctor:</b> AI-powered shelf analysis for identifying and
-  analyzing shelf conditions.
-- ⏰ <b>Automated Expiry Alerts:</b> Track products and upcoming expiration
-  dates.
-- 📊 <b>Sales Analytics & Business Insights:</b> Generate useful insights
-  from store and sales data.
-- 🔗 <b>Seller ↔ Supplier Connectivity:</b> Enable real-time interaction
-  between sellers and suppliers.
+- 🧹 <b>Shelf Doctor:</b> AI-powered shelf analysis.
+- ⏰ <b>Automated Expiry Alerts:</b> Track products and upcoming expiration dates.
+- 📊 <b>Sales Analytics & Business Insights:</b> Generate insights from store and sales data.
+- 🔗 <b>Seller ↔ Supplier Connectivity:</b> Enable real-time interaction between sellers and suppliers.
 
-🏆 <b>Achievement:</b> Top 18 among 250+ teams — GDG Cloud New Delhi
-Hackathon
+🏆 <b>Achievement:</b> Top 18 among 250+ teams — GDG Cloud New Delhi Hackathon
 
 <b>🔑 Focus:</b> AI • Data Analytics • Computer Vision • Automation •
 Business Intelligence • Intelligent Retail
@@ -148,8 +141,7 @@ Business Intelligence • Intelligent Retail
 <b>Campus Connect</b> is a digital campus platform designed to improve
 communication, accessibility, and interaction within the college ecosystem.
 The project focuses on bringing useful campus-related services and
-information into a centralized digital environment, making it easier
-for students to access and interact with campus resources.
+information into a centralized digital environment.
 
 <b>✨ Key Areas:</b>
 
@@ -165,8 +157,6 @@ User-Centric Solutions
 ---
 
 <h2>🔬 Data Science Workflow</h2>
-
-📊 I approach Data Science projects as an end-to-end process:
 
 <p align="center">
 
